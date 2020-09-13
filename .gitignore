@@ -1,0 +1,4 @@
+# Project exclude paths
+/jd_shop_canal_client/target/
+/jd_shop_common/target/
+/jd_shop_realtime_etl/target/
